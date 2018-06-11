@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Blockchain study with Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/changyu2/Blockchain_Study_With_Typescript.git",
+  "author": "changyu2 <lee930305@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
